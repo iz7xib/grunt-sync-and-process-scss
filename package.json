@@ -1,0 +1,21 @@
+{
+  "name": "browsersync-grunt-configuration",
+  "version": "1.0.0",
+  "description": "BrosweSync-Grunt-Configuration-Demo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtiwari333/BrosweSync-Grunt-Configuration-Demo.git"
+  },
+  "author": "Ganesh Tiwari",
+  "bugs": {
+    "url": "https://github.com/gtiwari333/BrosweSync-Grunt-Configuration-Demo/issues"
+  },
+  "homepage": "https://github.com/gtiwari333/BrosweSync-Grunt-Configuration-Demo#readme",
+  "devDependencies": {
+    "grunt": "^1.3.0",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}

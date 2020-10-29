@@ -1,0 +1,1 @@
+document.getElementById("message").innerHTML = "<hr/><i>BrowserSync is awesome</i>";
