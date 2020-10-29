@@ -1,16 +1,16 @@
 {
-  "name": "browsersync-grunt-configuration",
+  "name": "grunt-sync-and-process-scss",
   "version": "1.0.0",
-  "description": "BrosweSync-Grunt-Configuration-Demo",
+  "description": "grunt-sync-and-process-scss",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gtiwari333/BrosweSync-Grunt-Configuration-Demo.git"
+    "url": "git+https://github.com/iz7xib/grunt-sync-and-process-scss"
   },
-  "author": "Ganesh Tiwari",
+  "author": "Fabio Bratta",
   "bugs": {
-    "url": "https://github.com/gtiwari333/BrosweSync-Grunt-Configuration-Demo/issues"
+    "url": "https://github.com/iz7xib/grunt-sync-and-process-scss/issues"
   },
-  "homepage": "https://github.com/gtiwari333/BrosweSync-Grunt-Configuration-Demo#readme",
+  "homepage": "https://github.com/iz7xib/grunt-sync-and-process-scss#readme",
   "devDependencies": {
     "grunt": "^1.3.0",
     "grunt-browser-sync": "^2.2.0",
