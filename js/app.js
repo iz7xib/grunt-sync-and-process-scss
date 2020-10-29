@@ -1,1 +1,1 @@
-document.getElementById("message").innerHTML = "<hr/><i>BrowserSync is awesome</i>";
+document.getElementById("message").innerHTML = "<i>The project is working</i>";
