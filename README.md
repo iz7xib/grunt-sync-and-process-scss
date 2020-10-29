@@ -4,5 +4,10 @@
 
 
 ## HOW TO USE
-`npm install`
+
+Use in terminal `npm install`;
+
+When finish the process use: `grunt`;
+
+## ENJOY!!!
 
