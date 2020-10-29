@@ -1,8 +1,8 @@
-## BrowserSync Configuration Demo Project
+## Grunt configuration demo project & BrowserSync
 
 ###Utilizes BrowserSync and Watch grunt tasks
 
 
-####For detailed description of project : 
+## HOW TO USE
+`npm install`
 
-http://ganeshtiwaridotcomdotnp.blogspot.com/2016/03/browsersync-grunt-configuration-multi.html
